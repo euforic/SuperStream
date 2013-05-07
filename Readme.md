@@ -2,6 +2,9 @@
 # SuperStream
 The Voltron of node style streams
 
+[![Build Status](https://secure.travis-ci.org/euforic/SuperStream.png)](http://travis-ci.org/euforic/SuperStream)
+[![NPM version](https://badge.fury.io/js/superstream.png)](https://npmjs.org/package/superstream)
+
 __Work in progress__
 
 ## Features
