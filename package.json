@@ -1,0 +1,29 @@
+{
+  "name": "superstream",
+  "version": "0.0.1",
+  "description": "The Voltron of node style streams",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/euforic/SuperStream.git"
+  },
+  "scripts":{
+    "test": "make test"
+  },
+  "keywords": [
+    "streams",
+    "events",
+    "flow",
+    "control"
+  ],
+  "author": "Christian Sullivan <cs@euforic.co>",
+  "license": "MIT",
+  "readmeFilename": "Readme.md",
+  "devDependencies": {
+    "mocha": "~1.9.0",
+    "should": "~1.2.2"
+  }
+}

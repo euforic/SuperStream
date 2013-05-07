@@ -1,0 +1,20 @@
+{
+  "name": "superstream",
+  "repo": "euforic/superstream",
+  "description": "The voltron of node style streams",
+  "version": "0.0.1",
+  "keywords": [
+    "stream",
+    "events",
+    "flow",
+    "control"
+  ],
+  "scripts": [
+    "lib/index.js"
+  ],
+  "main": "lib/index.js",
+  "dependencies": {
+    "component/emitter": "*"
+  },
+  "license": "MIT"
+}
